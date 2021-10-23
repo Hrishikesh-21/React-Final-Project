@@ -1,0 +1,48 @@
+.card_background{
+    color: rgba(12, 8, 70, 0.356);
+    padding-top: 50%;
+    font-size:100px;
+    text-align: center;
+  
+  }
+  .card_info{
+    color: rgb(145, 18, 18);
+  
+    text-align: center;
+    padding-top: 5%;
+  }
+
+  img{
+    height: 80%;
+    width: 80%;
+    padding-left: 30%;
+    padding-right: 10%;
+    padding-top: 05%;
+    image-resolution: 30%;
+    border-radius: 0px;
+  }
+  
+  .cards{
+    background-color:rgba(97, 174, 218, 0.26);
+ margin-right: 05%;
+  margin-left: 5%;
+  border-radius: 10px;
+
+  }
+
+  a button{
+    size: 800px;
+    box-sizing: border-box;
+    background-color: #ad0000;
+    border: none;
+    color: white;
+    padding: 15px 32px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 50px 50px;
+    cursor: pointer;
+    border-radius: 30px;
+  
+  }
